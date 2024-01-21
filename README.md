@@ -13,7 +13,7 @@
 <details>
   <summary>Санузел</summary>
   
-  ![alt text](IMG_1330.png "Title")
+  ![alt text](IMG_1365.png "Title")
 </details>
 
 
