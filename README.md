@@ -44,10 +44,10 @@
 <details>
   <summary>AI Референсы</summary>
   
-  ![alt text](img.png "Title")
-  ![alt text](img_1.png "Title")
-  ![alt text](img_3.png "Title")
-  ![alt text](img_4.png "Title")
+  ![alt text](AI-refrence/img.png "Title")
+  ![alt text](AI-refrence/img_1.png "Title")
+  ![alt text](AI-refrence/img_3.png "Title")
+  ![alt text](AI-refrence/img_4.png "Title")
 </details>
 
 
